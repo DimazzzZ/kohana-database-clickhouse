@@ -1,6 +1,8 @@
 # Kohana Database ClickHouse driver
 
-ClickHouse implementation for Kohana database
+ClickHouse implementation for Kohana database. 
+
+Keep in mind that ClickHouse not supports DELETE & UPDATE statements.
 
 ## Installation
 
